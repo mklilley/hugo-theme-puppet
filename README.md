@@ -29,7 +29,7 @@
 ## Installation
 
 ```bash
-$ git clone https://github.com/roninro/hugo-theme-puppet.git themes/puppet
+$ git clone https://github.com/mklilley/hugo-theme-puppet.git themes/puppet
 ```
 
 ## Configuration
