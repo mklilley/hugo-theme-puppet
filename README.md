@@ -31,7 +31,7 @@ THIS IS A FORK THAT WAS MADE BECAUSE NEWER VERSIONS OF HUGO MADE THE ORIGINAL TH
 ## Installation
 
 ```bash
-$ git clone https://github.com/roninro/hugo-theme-puppet.git themes/puppet
+$ git clone https://github.com/mklilley/hugo-theme-puppet.git themes/puppet
 ```
 
 ## Configuration
