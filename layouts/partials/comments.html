@@ -1,6 +1,6 @@
 {{ if (ne .Params.comment false) -}}
 
-{{ if .Site.Config.Services.Disqus.Shortnamehu }}
+{{ if .Site.Config.Services.Disqus.Shortname }}
 {{ template "_internal/disqus.html" . }}
 {{ end }}
 
