@@ -1,5 +1,7 @@
 # Hugo Theme Puppet
 
+THIS IS A FORK THAT WAS MADE BECAUSE NEWER VERSIONS OF HUGO MADE THE ORIGINAL THEME UNUSABLE. CHECK OUT THE PULL REQUESTS IN THIS REPO TO SEE WHAT HAS BEEN CHANGED.
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/275ce227-7872-4314-8b54-5499ba237c18/deploy-status)](https://app.netlify.com/sites/hugo-theme-puppet/deploys)
 
 > Ported Theme of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), Thank [Huxpro](https://github.com/Huxpro) for designing such a flawless theme.
